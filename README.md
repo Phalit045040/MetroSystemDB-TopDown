@@ -18,7 +18,7 @@ This file includes:
 - **Query and Analyze:** Utilize SQL queries to retrieve and analyze data for various DMRC operational insights.
 
 ## Contributing
-This project is the result of a collaborative effort between Anish Rawat (https://github.com/anishrawat07), Jayati Sunil Patel (https://github.com/JayatiPatel) and Phalit Gupta (https://github.com/Phalit045040), with valuable guidance from Prof. Ashok Harnal.
+This project is the result of a collaborative effort between Anish Rawat (https://github.com/anishrawat07), Himanshi Saxena (https://github.com/045019) and Jayati Sunil Patel (https://github.com/JayatiPatel), with valuable guidance from Prof. Ashok Harnal.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
