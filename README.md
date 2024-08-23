@@ -1,4 +1,4 @@
-# DMRC (Delhi Metro Rail Corporation) Database**
+# DMRC (Delhi Metro Rail Corporation) Database
 
 This project outlines the top-down design of a relational database for the Delhi Metro Rail Corporation (DMRC). The database schema is designed to efficiently store and manage data related to DMRC operations, including stations, lines, trains, schedules, passengers, cards, trips, and maintenance records.
 
